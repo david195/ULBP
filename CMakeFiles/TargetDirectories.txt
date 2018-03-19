@@ -1,0 +1,3 @@
+/home/david/Proyectos/opencv/ULBP_VECTOR/CMakeFiles/rebuild_cache.dir
+/home/david/Proyectos/opencv/ULBP_VECTOR/CMakeFiles/edit_cache.dir
+/home/david/Proyectos/opencv/ULBP_VECTOR/CMakeFiles/main.dir
